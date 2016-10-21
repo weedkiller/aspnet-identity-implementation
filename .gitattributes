@@ -63,3 +63,5 @@
 #*.RTF   diff=astextplain
 
 AspNetIdentityImplementation/Scripts/* linguist-vendored
+AspNetIdentityImplementation/Content/* linguist-vendored
+AspNetIdentityImplementation/fonts/* linguist-vendored
